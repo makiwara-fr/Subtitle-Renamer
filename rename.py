@@ -17,6 +17,6 @@ class Renamer:
 				os.rename(v.path,os.path.join(os.path.dirname(v.path), self.regexps.check_video.split(videos[k].name)[0]+".srt"))
 				i = i + 1
 			except:
-				print("No videos found for subtitles " + str(v.name))
+				print("No videos found for subtitle : " + str(v.name))
 		
 		print(str(i)+ " subtitles renamed")

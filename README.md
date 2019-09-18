@@ -1,8 +1,8 @@
-# Subtitle Renammer
+# Subtitle Renamer
 
 Match your subtitles files with your video files
 
-## Format recognized
+## Formats recognized
 
 - S15E25
 - 3E12

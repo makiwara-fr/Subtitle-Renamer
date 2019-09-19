@@ -1,6 +1,8 @@
-# Subtitle Renamer
+# Series Subtitle Renamer
 
-Match your subtitles files with your video files in a single batch
+Don't loose time anymore renaming each of your subtitles files with the videos of your favorite series.
+Do it automatically at once !
+
 
 ## Formats recognized
 

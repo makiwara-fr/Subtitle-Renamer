@@ -1,6 +1,6 @@
 # Subtitle Renamer
 
-Match your subtitles files with your video files
+Match your subtitles files with your video files in a single batch
 
 ## Formats recognized
 

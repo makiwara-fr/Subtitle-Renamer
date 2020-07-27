@@ -59,6 +59,35 @@ def main(arg_list):
 #		elif opt in ("-o, --output"):
 #			exported_file = arg
 
+	
+		
+	
+	# Welcome
+	print("")
+	print("")
+	print("")
+	print("".join((
+	"                 __   .__                              \n",
+	"   _____ _____  |  | _|__|_  _  _______ ____________   \n",
+	"  /     \\\\__  \ |  |/ /  \ \/ \/ /\__  \\\\_  __ \\__  \\  \n",
+	" |  Y Y  \/ __ \|    <|  |\     /  / __ \|  | \// __ \_\n",
+	" |__|_|  (____  /__|_ \__| \/\_/  (____  /__|  (____  /\n",
+	"      \/     \/     \/                \/           \/ \n")))
+	print("")
+	print("")
+	print("")
+	
+	
+	
+	
+	print("#######################################")
+	print("")
+	print("	"+CONFIG.NAME)
+	print("")
+	print("#######################################")
+	print("")
+	
+	#checking parameters
 	if args == []:
 		print("No working folder given exiting.")
 		usage()
@@ -68,15 +97,6 @@ def main(arg_list):
 			print(a)
 		# to be done checking beforehand if args contains only folders
 		folders = args
-		
-	
-	# Welcome
-	print("#######################################")
-	print("")
-	print("	"+CONFIG.NAME)
-	print("")
-	print("#######################################")
-	print("")
 	
 	# preparing the scanner for the different folders
 	regexps_gen = regexps.Regexps()

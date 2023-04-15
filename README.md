@@ -15,4 +15,6 @@ Do it automatically at once !
 
 Put all your videos and subtitles in the same folder
 
-`python3 main.py path_to_folder`
+```
+subtitle-renamer
+```

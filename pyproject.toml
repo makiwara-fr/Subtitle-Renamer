@@ -3,8 +3,8 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "subtitle renamer"
-version = "0.2.0"
+name = "subtitle-renamer"
+version = "0.9.0"
 authors = [
   { name="makiwara-fr", email="" },
 ]
@@ -19,7 +19,7 @@ classifiers = [
 
 
 [project.scripts]
-subtitle-renamer = "subtitle-renamer.main:main"
+subtitle-renamer = "main:main"
 
 
 

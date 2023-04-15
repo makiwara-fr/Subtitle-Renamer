@@ -3,6 +3,7 @@
 Don't loose time anymore renaming each of your subtitles files with the videos of your favorite series.
 Do it automatically at once !
 
+Match automatically videos and subtitles and rename the subtitles with the same name as video
 
 ## Formats recognized
 

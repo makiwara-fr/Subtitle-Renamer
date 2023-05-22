@@ -21,12 +21,12 @@
 import sys
 from datetime import datetime
 import getopt
-import os
-import settings as CONFIG
-from settings import log as log
-import scan
-import rename
-import regexps
+
+from subtitle_renamer import settings as CONFIG
+from subtitle_renamer.settings import log as log
+from subtitle_renamer import scan
+from subtitle_renamer import rename
+from subtitle_renamer import regexps
 
 def usage():
 	print("Recognised options")

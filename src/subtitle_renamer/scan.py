@@ -1,5 +1,5 @@
 import os
-import settings as CONFIG
+from subtitle_renamer import settings as CONFIG
 import re
 
 

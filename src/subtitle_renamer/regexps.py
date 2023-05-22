@@ -1,5 +1,5 @@
 import re
-import settings as CONFIG
+from subtitle_renamer import settings as CONFIG
 
 class Regexps:
 	

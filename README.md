@@ -17,5 +17,5 @@ Match automatically videos and subtitles and rename the subtitles with the same 
 Put all your videos and subtitles in the same folder
 
 ```
-subtitle-renamer
+subtitle-renamer path_to_look at
 ```

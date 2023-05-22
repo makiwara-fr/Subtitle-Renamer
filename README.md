@@ -17,5 +17,13 @@ Match automatically videos and subtitles and rename the subtitles with the same 
 Put all your videos and subtitles in the same folder
 
 ```
-subtitle-renamer path_to_look at
+subtitle-renamer [path_to_look_at]
+```
+
+## installation
+
+Download latest version [https://github.com/makiwara-fr//Subtitle-Renamer//releases/latest]
+
+```
+pip install [wheel file]
 ```

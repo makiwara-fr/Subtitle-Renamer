@@ -10,5 +10,8 @@ test:
 
 lint:
 
+build:
+	python3 -m build
+
 all:
 	make install test lint

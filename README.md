@@ -1,3 +1,5 @@
+[![Makefile CI](https://github.com/makiwara-fr/Subtitle-Renamer/actions/workflows/makefile.yml/badge.svg)](https://github.com/makiwara-fr/Subtitle-Renamer/actions/workflows/makefile.yml)
+
 # Series Subtitle Renamer
 
 Don't loose time anymore renaming each of your subtitles files with the videos of your favorite series.
